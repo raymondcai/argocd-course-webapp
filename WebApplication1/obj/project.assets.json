@@ -98,20 +98,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mabusaa\\.nuget\\packages\\": {}
+    "C:\\Users\\raymondcai\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mabusaa\\source\\repos\\my-first-project\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\raymondcai\\source\\repos\\my-first-project\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\mabusaa\\source\\repos\\my-first-project\\WebApplication1\\WebApplication1.csproj",
-      "packagesPath": "C:\\Users\\mabusaa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mabusaa\\source\\repos\\my-first-project\\WebApplication1\\obj\\",
+      "projectPath": "C:\\Users\\raymondcai\\source\\repos\\my-first-project\\WebApplication1\\WebApplication1.csproj",
+      "packagesPath": "C:\\Users\\raymondcai\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\raymondcai\\source\\repos\\my-first-project\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mabusaa\\NuGet.Config",
-        "C:\\Users\\mabusaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\raymondcai\\NuGet.Config",
+        "C:\\Users\\raymondcai\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
