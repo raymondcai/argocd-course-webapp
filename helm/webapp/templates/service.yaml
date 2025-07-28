@@ -8,7 +8,7 @@ spec:
   type: {{ .Values.service.type }}
   ports:
     - port: {{ .Values.service.port }}
-      targetPort: http
+      targetPort: 80
       {{- if .Values.service.nodeport }}
       nodePort: {{ .Values.service.nodeport }}
       {{- end }}
