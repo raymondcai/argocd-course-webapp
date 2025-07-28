@@ -1,0 +1,25 @@
+replicaCount: 1
+
+image:
+  repository: raymondcai/argocd-course-webapp
+  tag: latest
+  pullPolicy: IfNotPresent
+
+service:
+  type: NodePort
+  port: 5000
+  targetPort: 5000
+  nodePort: 30001
+
+resources: {}
+
+ingress:
+  enabled: false
+  className: ""
+  annotations: {}
+  hosts:
+    - host: flask.local
+      paths:
+        - path: /
+          pathType: Prefix
+  tls: []
